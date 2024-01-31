@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "active-record-pattern-with-rn",
+    "slug": "active-record-pattern-with-rn",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
